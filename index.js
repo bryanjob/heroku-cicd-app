@@ -41,7 +41,7 @@ app.post('/add', function (req, res) {
         'longitude': req.body.longitude,
         'avatar': req.body.avatar
     }
-    db.get('users').push(user).write();
+    -db.get('users').push(user).write();
     // console.log(db.get('users').value());
     res.send(db.get('users').value());
 });
