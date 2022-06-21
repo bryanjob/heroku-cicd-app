@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Matilda Durgan",
+      "dob": "1985-6-26",
+      "email": "Matilda91@yahoo.com",
+      "username": "Matilda67",
+      "password": "hclxM5yU44_dw3k",
+      "phone": "(268) 237-6510",
+      "streetaddress": "937 Lyda Crossing",
+      "citystatezip": "West Colten, HI 11748",
+      "latitude": "31.4376",
+      "longitude": "-32.0855",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/buddhasource/128.jpg"
+    },
+    {
+      "name": "Mr. Leslie Kulas",
+      "dob": "1955-8-3",
+      "email": "Leslie_Kulas@gmail.com",
+      "username": "Leslie.Kulas",
+      "password": "So3oa1qWnGOVCTX",
+      "phone": "293-502-5166",
+      "streetaddress": "49246 Fern Avenue",
+      "citystatezip": "New Tysonview, WA 74576-3865",
+      "latitude": "10.1789",
+      "longitude": "129.7985",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thiagovernetti/128.jpg"
+    },
+    {
+      "name": "Cristobal Senger Jr.",
+      "dob": "1958-9-16",
+      "email": "Cristobal.Senger40@gmail.com",
+      "username": "Cristobal61",
+      "password": "8dEQWXuwsSoPSk8",
+      "phone": "(899) 486-5441",
+      "streetaddress": "133 O'Conner Spurs",
+      "citystatezip": "Lake Flossieton, MN 15675-9500",
+      "latitude": "-19.4850",
+      "longitude": "-105.4088",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jffgrdnr/128.jpg"
+    }
+  ]
+}
